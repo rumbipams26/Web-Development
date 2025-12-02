@@ -1,4 +1,4 @@
-🌐 Web Development Project
+🌐 Web Development
 
 This repository contains the source code for a modern, responsive web development project built using HTML, CSS, and JavaScript.
 The project is designed with clean structure, reusable components, and best practices in UI/UX.
